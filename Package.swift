@@ -25,7 +25,7 @@ let package = Package(
         .binaryTarget(
             name: "PositioningSDK",
             url: "https://github.com/DVD2/positioning-sdk-ios/releases/download/v0.0.0/PositioningSDK.zip",
-            checksum: "1ecd9f33c435bac125e85f7ad17fe51eba27837d2c3b9df2e77a909a5bdf9abf"
+            checksum: "acf6a3644f3e564b90d638cb700001118cbcdf504962fe3559547e8f1ec580e9"
         )
     ]
 )
